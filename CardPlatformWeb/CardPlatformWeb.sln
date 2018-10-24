@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardPlatformWeb", "CardPlatformWeb\CardPlatformWeb.csproj", "{A8EAA79D-8BAC-4BB7-B00E-E932F33516F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardPlatform.Data", "CardPlatform.Data\CardPlatform.Data.csproj", "{C5BD2613-1362-48D9-AA4F-9F2E2EF9E1FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardPlatform.Entity", "CardPlatform.Entity\CardPlatform.Entity.csproj", "{9DDE841E-DA8E-429A-97E6-73F95A404B99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardPlatform.Common", "CardPlatform.Common\CardPlatform.Common.csproj", "{8CD466CD-6221-422C-88A2-ADBCEC1AD2C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8EAA79D-8BAC-4BB7-B00E-E932F33516F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8EAA79D-8BAC-4BB7-B00E-E932F33516F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8EAA79D-8BAC-4BB7-B00E-E932F33516F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8EAA79D-8BAC-4BB7-B00E-E932F33516F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5BD2613-1362-48D9-AA4F-9F2E2EF9E1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5BD2613-1362-48D9-AA4F-9F2E2EF9E1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5BD2613-1362-48D9-AA4F-9F2E2EF9E1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5BD2613-1362-48D9-AA4F-9F2E2EF9E1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDE841E-DA8E-429A-97E6-73F95A404B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDE841E-DA8E-429A-97E6-73F95A404B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDE841E-DA8E-429A-97E6-73F95A404B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDE841E-DA8E-429A-97E6-73F95A404B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CD466CD-6221-422C-88A2-ADBCEC1AD2C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD466CD-6221-422C-88A2-ADBCEC1AD2C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD466CD-6221-422C-88A2-ADBCEC1AD2C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD466CD-6221-422C-88A2-ADBCEC1AD2C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
